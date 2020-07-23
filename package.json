@@ -1,0 +1,19 @@
+{
+  "name": "avatar-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "express": "^4.17.1",
+    "font-color-contrast": "^1.0.3",
+    "initials": "^3.1.1",
+    "md5": "^2.2.1"
+  }
+}
